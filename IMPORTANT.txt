@@ -1,0 +1,20 @@
+Membre du groupe: DIALLO AWA et DZAKPATA Koami Junior
+
+Bonsoir monsieur.
+
+Au cour de la réalisation de notre projet, nous n'avons pas eu de problème en tant que tel. Nous avions certe suivis la démarche exigée par les TP 1 et 2 mais vers la fin du TP2, nous avions eu un prolème qui nous a ralentit, raison pour laquelle nous n'avions pas pu rendre le travail en salle. 
+
+En éffet, il s'agissait de F7(step into) qu'on devait appuyer sur le clavier mais pour faute de mauvaise connaissance du clavier, nous n'avions pas vite retrouver le F7. De plus, au niveau de la modification de la condition de la boucle for, nous n'avions pas vite su changer l'inférieur ou égale (<=) en supérieur ou égale (>=)
+parce qu'il s'agissait de la transformation d'une incrémentation(i++) en  une décrémentation(i--).
+
+En fin de compte nous avions finalement pu réaliser le projet.
+
+Nous vous remercions pour cette démarche dont vous optez pour notre formation. 
+
+Nous espérons que DIEU vous donnera plus de santé pour qu'on continu ainsi.
+
+Recevez nos salutations les plus respectueux.
+
+[Ci-joint le main de notre projet]
+
+
